@@ -1,2 +1,2 @@
 # SyntaxLab_2023
-Tasks I completed as a research assistant in the Experimental Syntax Lab at UCSD, under the mentorship of Grant Goodall and Maho Takahashi.
+Data cleaning, visualization, and statistical analysis for the UCSD Experimental Syntax Lab, under the mentorship of Maho Takahashi and Grant Goodall.
